@@ -1,0 +1,7 @@
+notebook
+numpy
+pandas
+matplotlib
+scipy
+torch
+wfdb
