@@ -66,7 +66,7 @@ that, each notebook starts in seconds. Training the CNN takes about 7 minutes on
 - [x] 3. Baseline: "always guess normal" and "age alone", the scores a model has to beat.
 - [x] 4. First model, MI vs. normal: an MLP.
 - [x] 5. Better model with 1D convolutions, then all 5 categories.
-- [ ] 6. Write-up: tuned to catch 95% of MIs and drafted above. Still to do: put it on GitHub.
+- [x] 6. Write-up: tuned to catch 95% of MIs, written up above, and on GitHub.
 
 ## Credit
 
